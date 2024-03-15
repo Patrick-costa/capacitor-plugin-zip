@@ -1,6 +1,6 @@
 {
   "name": "capacitor-file-zip",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Generate Zip File",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
