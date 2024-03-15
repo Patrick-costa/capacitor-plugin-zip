@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-plugin-zip",
+  "name": "capacitor-file-zip",
   "version": "0.0.1",
   "description": "Generate Zip File",
   "main": "dist/plugin.cjs.js",
