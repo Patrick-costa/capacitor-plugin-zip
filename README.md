@@ -1,11 +1,11 @@
-# capacitor-plugin-zip
+# capacitor-file-zip
 
 Generate Zip File
 
 ## Install
 
 ```bash
-npm install capacitor-plugin-zip
+npm install capacitor-file-zip
 npx cap sync
 ```
 
