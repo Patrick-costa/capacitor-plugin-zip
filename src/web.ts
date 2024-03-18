@@ -2,10 +2,10 @@ import { WebPlugin } from '@capacitor/core';
 import { ZipPlugin, ZipOptions, UnZipOptions } from './definitions';
 
 export class ZipPluginWeb extends WebPlugin implements ZipPlugin {
-  constructor() {
+constructor() {
     super({
       name: 'ZipPlugin',
-      platforms: ['web']
+      platforms: ['web', 'ios', 'android']
     });
   }
 

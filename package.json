@@ -1,6 +1,6 @@
 {
   "name": "capacitor-file-zip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate Zip File",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -10,7 +10,7 @@
     "android/",
     "dist/",
     "ios/",
-    "CapacitorPluginZip.podspec"
+    "CapacitorFileZip.podspec"
   ],
   "author": "Patrick Araujo",
   "license": "MIT",
@@ -24,7 +24,9 @@
   "keywords": [
     "capacitor",
     "plugin",
-    "native"
+    "native",
+    "file",
+    "zip"
   ],
   "scripts": {
     "verify": "npm run verify:ios && npm run verify:android && npm run verify:web",
