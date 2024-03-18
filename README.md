@@ -53,19 +53,17 @@ unZip(options: UnZipOptions) => void
 
 #### ZipOptions
 
-| Prop              | Type                 |
-| ----------------- | -------------------- |
-| **`source`**      | <code>string</code>  |
-| **`destination`** | <code>string</code>  |
-| **`keepParent`**  | <code>boolean</code> |
+| Prop              | Type                |
+| ----------------- | ------------------- |
+| **`source`**      | <code>string</code> |
+| **`destination`** | <code>string</code> |
 
 
 #### UnZipOptions
 
-| Prop              | Type                 |
-| ----------------- | -------------------- |
-| **`source`**      | <code>string</code>  |
-| **`destination`** | <code>string</code>  |
-| **`overwrite`**   | <code>boolean</code> |
+| Prop              | Type                |
+| ----------------- | ------------------- |
+| **`source`**      | <code>string</code> |
+| **`destination`** | <code>string</code> |
 
 </docgen-api>
